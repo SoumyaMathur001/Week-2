@@ -1,8 +1,7 @@
 # Week-2
-🌍 Carbon Emission Prediction – Week 2
-Internship @ AICTE – Stage 2: Data Exploration & Visualization
 
 📘 Notebook Overview
+
 This week focuses on data exploration, visualization, and hypothesis testing for global CO₂ emissions. We conduct feature engineering, derive new insights through visualizations, and define the groundwork for predictive modeling.
 
 🛠️ Tasks Completed
